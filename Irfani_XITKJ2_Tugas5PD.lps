@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Irfani_XITKJ2_Tugas5PD.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Irfani_XITKJ2_Tugas5PD"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\Tugas PD5\unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UNIT1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="96"/>
+        <CursorPos X="3" Y="109"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="..\Tugas PD5\unit1.pas"/>
+        <Caret Line="108" Column="3" TopLine="95"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\Tugas PD5\unit1.pas"/>
+        <Caret Line="109" Column="3" TopLine="96"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\Tugas PD5\unit1.pas"/>
+        <Caret Line="108" Column="3" TopLine="95"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
